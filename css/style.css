@@ -217,7 +217,7 @@ section.fak .card .card-header h5 a:focus {
     text-decoration: none;
 }
 section.fak .card .card-header h5 a.collapsed i::before{
-    content: "\f107";
+    content: "\f106" !important;
 }
 section.video {
     min-height: 100vh;
