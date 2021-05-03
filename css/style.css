@@ -204,7 +204,7 @@ section.fak .card .card-header h5 a{
 }
 section.fak .card .card-header h5 a i{
     position: absolute;
-    top: 2px;
+    top: auto;
     left: 5px;
 }
 section.fak .card .card-block{
